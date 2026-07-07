@@ -9,7 +9,7 @@ Sou um Engenheiro de QA com foco estratégico em automação de testes. Minha mi
 * **Quality & Best Practices:** Clean Code, Estratégias de Automação, CI/CD
 
 ### 🚀 Foco Profissional
-* 📍 Baseado em Sergipe, Brasil.
+* 📍 Reside em Sergipe, Brasil.
 * 🎓 Bacharel em Sistemas de Informação (IFS).
 * 🎯 Atualmente liderando a transição de testes manuais para automação, com foco em escalabilidade e manutenção de código.
 * 💡 Acredito em testes que documentam o comportamento do sistema e facilitam a vida do time de desenvolvimento.
