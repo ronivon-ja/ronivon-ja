@@ -1,4 +1,4 @@
-# Olá, sou o Ronivon de Jesus Andrade! 👋
+# Olá, sou o Ronivon de J. Andrade! 👋
 
 Sou um Engenheiro de QA com foco estratégico em automação de testes. Minha missão é elevar a qualidade do software através de automação eficiente, garantindo que a suíte de testes seja um ativo de negócio, não um gargalo.
 
