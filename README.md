@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou o [Seu Nome]! 👋
 
-<!--
-**ronivon-ja/ronivon-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Engenheiro de QA com foco estratégico em automação de testes. Minha missão é elevar a qualidade do software através de automação eficiente, garantindo que a suíte de testes seja um ativo de negócio, não um gargalo.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Testing & Automation:** Jest, WebdriverIO, BDD (Gherkin)
+* **Languages:** TypeScript, JavaScript
+* **Backend & Data:** Node.js, MongoDB, Redis
+* **Quality & Best Practices:** Clean Code, Estratégias de Automação, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Foco Profissional
+* 📍 Baseado em Sergipe, Brasil.
+* 🎓 Bacharel em Sistemas de Informação (IFS).
+* 🎯 Atualmente liderando a transição de testes manuais para automação, com foco em escalabilidade e manutenção de código.
+* 💡 Acredito em testes que documentam o comportamento do sistema e facilitam a vida do time de desenvolvimento.
